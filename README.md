@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor com maior foco no backend, utilizando .NET Framework, também possuo conhecimento em desenvolvimento web. Tenho experiência profissional em testes unitários para aplicações .NET usando NUnit.</p>
+<p align="left">Sou desenvolvedor com maior foco no backend, utilizando .NET Framework. Possuo conhecimento em desenvolvimento web, também tenho experiência profissional em testes unitários para aplicações .NET usando NUnit.</p>
 
 ###
 
