@@ -37,11 +37,6 @@
 <h2 align="left">✉️ Contato</h2>
 
 ###
-
-<div align="left">
-  <a href="mailto:teagos371@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/thiagosabreu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
